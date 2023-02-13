@@ -10,7 +10,7 @@ import image3_thumbnail from "./assets/image-product-3-thumbnail.jpg";
 import image4 from "./assets/image-product-4.jpg";
 import image4_thumbnail from "./assets/image-product-4-thumbnail.jpg";
 
-// Api response like.Array of products json
+// Api response like.Array of products objects
 const products = [
   {
     images: [
